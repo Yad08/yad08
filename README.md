@@ -6,8 +6,20 @@
 🏫 Goolsby Leadership Academy Scholar  
 💡 Builder of software, robotics, and data-driven tools  
 
+I’m an Information Systems student focused on bridging technology, data, and business operations. My work centers around building systems, analyzing data, and improving processes to drive efficiency and impact.
+
 I enjoy building technology that connects **software, hardware, AI, and real-world impact**.  
 My work often blends **technical development, leadership, and product thinking**.
+
+---
+
+# 🧩 What I Can Do
+
+🔹Build and deploy data-driven dashboards for business insights
+🔹Design and improve operational workflows and systems
+🔹Develop mobile and hardware-based applications
+🔹Analyze datasets and communicate insights clearly
+🔹Rapidly learn and apply new tools in technical environments
 
 ---
 
@@ -39,13 +51,14 @@ Internal workflow systems, onboarding platforms, and operational infrastructure.
 # 🛠 Tech Stack
 
 ### Languages
-Python • Kotlin • Java • SQL
+Python (data analysis, scripting) • Kotlin (Android development) • Java (object-oriented programming) • SQL (data querying)
 
 ### Tools
 Git • Android Studio • Raspberry Pi • Supabase
 
 ### Data & Analytics
-Tableau • Orange Data Mining • Data Visualization
+Tableau (dashboarding) • Orange (data mining) • Data Visualization (insight communication)
+
 
 ### Design & Prototyping
 Figma • Fusion 360 • Blender
@@ -59,6 +72,15 @@ Robotics
 Data Systems  
 Product Development  
 Leadership & Innovation  
+
+---
+
+# 📚 Currently Learning
+
+🔹Advanced SQL & Data Modeling
+🔹Business Intelligence (Power BI / Tableau)
+🔹System Design & Architecture
+🔹AI Applications in Business Operations
 
 ---
 
