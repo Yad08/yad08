@@ -1,4 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00A6FF&size=30&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yusuf+Dirir;Information+Systems+%2B+Business+Analytics;Software+%7C+Data+%7C+Robotics+%7C+AI;Building+Technology+for+Real-World+Problems)
 
 # Hi 👋 I'm Yusuf Dirir
 
