@@ -1,93 +1,104 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00A6FF&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Yusuf+Dirir;Information+Systems+Student;Robotics+%7C+AI+%7C+Software+Builder)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00A6FF&size=30&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yusuf+Dirir;Information+Systems+%2B+Business+Analytics;Software+%7C+Data+%7C+Robotics+%7C+AI;Building+Technology+for+Real-World+Problems)
 
-# Hi there 👋 I'm Yusuf Dirir
+# Hi 👋 I'm Yusuf Dirir
 
-🎓 Information Systems Student @ The University of Texas at Arlington  
-🏫 Goolsby Leadership Academy Scholar  
-💡 Builder of software, robotics, and data-driven tools  
+🎓 **B.S. Information Systems + Business Analytics** — The University of Texas at Arlington  
+💼 Early-career technology professional working at the intersection of **business, systems, data, and product development**  
+🛠️ I enjoy building practical technology that solves real problems — from web applications and operational tools to Android apps, analytics projects, robotics, and embedded systems.
 
-I’m an Information Systems student focused on bridging technology, data, and business operations. My work centers around building systems, analyzing data, and improving processes to drive efficiency and impact.
-
-I enjoy building technology that connects **software, hardware, AI, and real-world impact**.  
-My work often blends **technical development, leadership, and product thinking**.
+My background blends **technology, business operations, analytics, leadership, and hands-on problem solving**. I’m especially interested in roles where I can help connect business needs with technical solutions while continuing to grow as a technologist.
 
 ---
 
-# 🧩 What I Can Do
-
-🔹Build and deploy data-driven dashboards for business insights
-🔹Design and improve operational workflows and systems
-🔹Develop mobile and hardware-based applications
-🔹Analyze datasets and communicate insights clearly
-🔹Rapidly learn and apply new tools in technical environments
-
----
-
-# 🚀 What I'm Working On
-
-🔹 Android development with **Kotlin & Jetpack Compose**  
-🔹 Robotics and embedded systems with **Raspberry Pi**  
-🔹 AI integrations and automation tools  
-🔹 Data systems and analytics projects  
-
----
-
-# 🧠 Featured Projects
-
-### 🤖 Goolsby Bee Robot
-Interactive Raspberry Pi powered robot designed for leadership academy engagement and outreach.
-
-### 📱 Meem Measure
-Android interval timer application designed to support ABA therapy workflows.
+## 🚀 Featured Projects
 
 ### 🍵 Matchalicious
-Student-led matcha pop-up venture combining business strategy, branding, and product development.
+Student-led business and technology project developed through the Goolsby Leadership Academy.
 
-### ⚙️ Operational Tools — Meem Behavior Institute
-Internal workflow systems, onboarding platforms, and operational infrastructure.
+I helped build and launch the digital experience supporting the venture, including the public website, custom domain, dashboards, and operational technology used by the team.
+
+🌐 **Live:** [matchalicious.dev](https://matchalicious.dev)
 
 ---
 
-# 🛠 Tech Stack
+### 📱 Meem Measure
+Android interval timer application built to support behavioral therapy workflows.
+
+**Built with:** Kotlin • Jetpack Compose • Room • DataStore
+
+Features include configurable interval sessions, randomized timing, alerts, session logging, and CSV export.
+
+---
+
+### 🤖 Robotics & Embedded Systems
+Hands-on experimentation with robotics, Raspberry Pi, sensors, servo motors, and hardware-software integration.
+
+Projects include robotic prototypes, programmable control systems, and embedded technology experiments focused on learning how software interacts with physical systems.
+
+---
+
+### ⚙️ Meem Operations Technology
+Internal tools developed to improve real operational workflows at Meem Behavior Institute.
+
+Projects include:
+
+- Visitor sign-in and clinic occupancy system
+- Digital cleaning task workflow
+- Operational dashboards
+- Employee and compliance tracking tools
+- Website and internal resource improvements
+
+Built around real business needs, process improvement, and day-to-day operations.
+
+---
+
+## 🧩 What I Do
+
+- Build and deploy web and mobile applications
+- Analyze data and communicate business insights
+- Improve operational workflows and processes
+- Translate business needs into technical solutions
+- Prototype robotics and embedded systems
+- Explore AI-powered tools and automation
+- Learn new technologies quickly and apply them to real problems
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-Python (data analysis, scripting) • Kotlin (Android development) • Java (object-oriented programming) • SQL (data querying)
+`Python` `SQL` `Kotlin` `Java` `TypeScript`
 
-### Tools
-Git • Android Studio • Raspberry Pi • Supabase
+### Web & Application Development
+`React` `Vite` `Tailwind CSS` `Supabase` `Jetpack Compose`
 
 ### Data & Analytics
-Tableau (dashboarding) • Orange (data mining) • Data Visualization (insight communication)
+`Excel` `Tableau` `Pandas` `NumPy` `Orange`
 
+### Tools & Platforms
+`Git` `GitHub` `Android Studio` `SQLite` `DBeaver` `Vercel`
 
-### Design & Prototyping
-Figma • Fusion 360 • Blender
-
----
-
-# 🌱 Interests
-
-Artificial Intelligence  
-Robotics  
-Data Systems  
-Product Development  
-Leadership & Innovation  
+### Robotics & Prototyping
+`Raspberry Pi` `Servo Control` `Embedded Systems` `Fusion 360` `Blender`
 
 ---
 
-# 📚 Currently Learning
+## 🌱 Currently Growing In
 
-🔹Advanced SQL & Data Modeling
-🔹Business Intelligence (Power BI / Tableau)
-🔹System Design & Architecture
-🔹AI Applications in Business Operations
+`SQL & Data Modeling` • `Business Intelligence` • `Python` • `AI Applications` • `System Design` • `Cloud Technologies`
 
 ---
 
-# 🤝 Connect With Me
+## 🎯 Areas of Interest
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf%20Dirir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yusufdirir1/)
+Business Systems • Data & Analytics • AI Enablement • Product & Operations • Software Development • Robotics & Embedded Systems
 
 ---
 
-⭐️ *Always building, learning, and exploring new technology.*
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf%20Dirir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufdirir1/)
+
+---
+
+### Always building, learning, and looking for better ways to solve problems.
