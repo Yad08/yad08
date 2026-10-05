@@ -2,7 +2,9 @@
 # Hi 👋 I'm Yusuf Dirir
 
 🎓 **B.S. Information Systems + Business Analytics** — The University of Texas at Arlington  
+
 💼 Early-career technology professional working at the intersection of **business, systems, data, and product development**  
+
 🛠️ I enjoy building practical technology that solves real problems — from web applications and operational tools to Android apps, analytics projects, robotics, and embedded systems.
 
 My background blends **technology, business operations, analytics, leadership, and hands-on problem solving**. I’m especially interested in roles where I can help connect business needs with technical solutions while continuing to grow as a technologist.
